@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iswar Patro</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<img align="right" alt="coding" width="370" border-radius="50%" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif">
+<img align="right" alt="coding" width="370" style={{border-radius="50%"}} src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iswarpatro&label=Profile%20views&color=0e75b6&style=flat" alt="iswarpatro" /> </p>
 
