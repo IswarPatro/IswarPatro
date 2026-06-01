@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iswarpatro&label=Profile%20views&color=0e75b6&style=flat" alt="iswarpatro" /> </p>
 
-- 🔭 I’m currently working on **AAISTA Pvt.Ltd**
+- 🔭 I’m currently working on **DeepNeura Technologies Pvt Ltd**
 
 - 🌱 I’m currently learning **different Frameworks and Data Structures and Algorithms**
 
